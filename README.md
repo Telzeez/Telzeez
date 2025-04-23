@@ -1,4 +1,4 @@
-# 👀 Hi, I'm Abdulazeez (Telzeez) 
+# 👀 Hi, I'm Abdlazeez (Telzeez) 
 
 ### **Frontend Developer | Full-Stack Explorer | E-Commerce Optimizer**
 
