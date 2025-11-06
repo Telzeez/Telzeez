@@ -1,6 +1,6 @@
 # Hi, I'm Abdlazeez Olasunkanmi 👋
 
-Electrical Engineering student building ML solutions for power systems and full-stack web applications. Based in Nigeria, working remotely.
+Building machine learning models and full-stack web applications. Based in Nigeria, working remotely.
 
 ---
 
@@ -8,16 +8,15 @@ Electrical Engineering student building ML solutions for power systems and full-
 
 **AI/ML**: Python, TensorFlow, Scikit-learn, Pandas, NumPy  
 **Web Development**: JavaScript, React, HTML, CSS  
-**Electrical Engineering**: Circuit Design, Power Systems, Signal Processing  
-**Tools**: Git, Jupyter, Selenium, Arduino
+**Tools**: Git, Jupyter, Selenium
 
 ---
 
 ## 🚀 **Current Projects**
 
-- **Power Systems ML**: Circuit fault detection and optimization models
-- **Full-Stack Development**: Building web applications with React
-- **Automation**: Scripting and workflow optimization
+- Machine learning models for predictive analytics
+- Full-stack web applications with React
+- Automation scripts and tools
 
 ---
 
