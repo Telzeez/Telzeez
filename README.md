@@ -37,5 +37,5 @@ I am open to discussions on **Full-Stack Architecture**, **IoT solutions**, and 
 
 | Connect | Details |
 | :--- | :--- |
-| **LinkedIn (Architect Focus)** | [](https://www.linkedin.com/in/abdlazeezolasunkanmi) |
+| **LinkedIn (Architect Focus)** | (https://www.linkedin.com/in/abdlazeezolasunkanmi) |
 | **Email** | abdlazeezolasunkanmi@gmail.com |
