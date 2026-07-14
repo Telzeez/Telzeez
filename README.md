@@ -1,41 +1,28 @@
 
+ # Hi, I'm Abdlazeez Olasunkanmi 👋
 
-# Hi, I'm Abdlazeez Olasunkanmi 👋
+   Full-Stack Developer interning at DGICT Technologies, working across React/Next.js, NestJS, TypeScript, and PostgreSQL. Also finishing   dmy           Electrical & Electronics Engineering degree at the University of Ibadan.
 
-**Frontend & Backend Architect** | Focused on building secure, scalable web platforms and integrating data from real-world systems (IoT).
+ Based in Ibadan, Nigeria.
 
-Based in Ibadan, Nigeria.
+ ## 🛠️ Technologies I Work With
 
------
+ | Category | Key Technologies |
+ |---|---|
+ | **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS |
+ | **Backend** | Node.js, NestJS, RESTful APIs, PostgreSQL |
+ | **Tools** | Git/GitHub, Docker, Vercel |
 
-## 🛠️ **Architectural Expertise & Technologies**
+ ## 🚀 Featured Projects
 
-My focus is on **End-to-End System Architecture** and delivering maintainable, high-performance code.
+ - **[Nigerian Student Housing Platform](link)** — Full-stack marketplace helping students find verified, affordable accommodation. React/cTypeScript frontend live on Vercel; PostgreSQL-backed API in active development.
+ - **[Portfolio](link)** — My personal site showcasing projects and writing.
+ - **[Husniyyah Luxe Design](link)** — Client website for a handmade design business, built with TypeScript.
+ - **[Audira Landing Page](link)** — Landing page project, TypeScript.
 
-| Category | Key Technologies & Skills |
-| :--- | :--- |
-| **Architecture & Backend** | **TypeScript**, **Node.js**, **RESTful APIs**, System Design, **Scalability**, JWT Authentication |
-| **Frontend Mastery** | **React.js**, **TypeScript**, JavaScript, Tailwind CSS, Performance Optimization |
-| **DevOps & Tools** | **Git** / GitHub Actions (CI/CD), **Docker** (Containerization), **Test Automation** |
-| **Niche Integration** | **IoT System Integration**, Data Modeling, Python (for scripting/data processing) |
+ ## 📫 Let's Connect
 
------
-
-## 🚀 **Featured Projects**
-
-I focus on projects that demonstrate architectural planning, data integrity, and high-quality user experience.
-
-  * **Nigerian Student Housing Platform:** Full-stack architecture demonstrating **secure data modeling** and scalable React/TypeScript frontend.
-  * **System Monitoring Dashboards:** Proofs-of-concept for **IoT data visualization** using real-time WebSockets and secure API ingestion.
-  * **Enterprise API Design:** Projects focused purely on robust, versioned **RESTful API development** using Node.js and PostgreSQL.
-
------
-
-## 📫 **Let's Connect & Collaborate**
-
-I am open to discussions on **Full-Stack Architecture**, **IoT solutions**, and technical collaborations.
-
-| Connect | Details |
-| :--- | :--- |
-| **LinkedIn (Architect Focus)** | (https://www.linkedin.com/in/abdlazeezolasunkanmi) |
-| **Email** | abdlazeezolasunkanmi@gmail.com |
+ | Connect | Details |
+ |---|---|
+ | LinkedIn | linkedin.com/in/abdlazeezolasunkanmi |
+ | Email | abdlazeezolasunkanmi@gmail.com |
