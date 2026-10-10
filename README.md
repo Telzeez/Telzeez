@@ -8,9 +8,9 @@
 
 <h1>Hi, I'm Abdlazeez Olasunkanmi 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&vCenter=true&width=420&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+NestJS;EEE+Student+%40+University+of+Ibadan;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&vCenter=true&width=420&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+NestJS;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<p>Full-Stack Developer interning at <b>DGICT Technologies</b>, working across React/Next.js, NestJS, TypeScript, and PostgreSQL. Also finishing my Electrical &amp; Electronics Engineering degree at the <b>University of Ibadan</b>.</p>
+<p>Full-Stack Developer interning at <b>DGICT Technologies</b>, working across React/Next.js, NestJS, TypeScript, and PostgreSQL.</p>
 
 <p>📍 Based in Ibadan, Nigeria</p>
 
@@ -54,7 +54,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-0d9488?style=for-the-badge&labelColor=0f172a" alt="status"/>
 <br/>
-<img src="https://img.shields.io/badge/B.Eng-EEE_%C2%B7_University_of_Ibadan-0f172a?style=flat-square&logo=googlescholar&logoColor=2dd4bf" alt="education"/>
+<img src="https://img.shields.io/badge/EEE-University_of_Ibadan_%C2%B7_Class_of_2026-0f172a?style=flat-square&logo=googlescholar&logoColor=2dd4bf" alt="education"/>
 <img src="https://img.shields.io/badge/Intern-DGICT_Technologies-0f172a?style=flat-square&logo=rocket&logoColor=2dd4bf" alt="intern"/>
 <br/><br/>
 
